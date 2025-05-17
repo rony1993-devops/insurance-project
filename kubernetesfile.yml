@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: insurance
-          image: vikuldocker/insurancedemo:1
+          image: rony1993/staragileprojectinsurance:v1
           ports:
             - containerPort: 8081
           env:
